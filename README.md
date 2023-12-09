@@ -12,7 +12,7 @@
  
 ---
 
-# Hi, I'm Iftach! 👋, Welcome to my GIT:
+# Hi, I'm Iftach! 👋,&nbsp;welcome to my GIT:
 
 <br/>
 
