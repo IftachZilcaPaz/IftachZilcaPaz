@@ -12,13 +12,16 @@
  
 ---
 
-# Hi, I'm Iftach! 👋, Welcome to my git:
+# Hi, I'm Iftach! 👋, Welcome to my GIT:
 
 <br/>
 
 <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1689486594104/0883007c-df25-4d04-90f9-16a033cece42.gif" align="right" height="250" width="350" />
 
 ## 🚀 About Me
+👨‍💻 I'm a Devops Engineer ...
+👨‍💻 I'm a Devops Engineer ...
+👨‍💻 I'm a Devops Engineer ...
 👨‍💻 I'm a Devops Engineer ...
 
 
