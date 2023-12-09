@@ -43,10 +43,7 @@ I'm a Devops Engineer ...
 
 <!---### 😂 Random Dev Meme--->
 <p><img src="https://randommeme-five.vercel.app/" align="left" width="300" height="300"/></p>
-</br>
-</br>
-</br>
-</br>
+
 
 <!---### ✍️ Random Dev Quote--->
 <p><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" align="left"/></p>
