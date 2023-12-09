@@ -46,7 +46,7 @@ I'm a Devops Engineer ...
 <br/>
 <br/>
 <br/>
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" align="right" width="600"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" align="right" width="400"/>
 <!---
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iftachzilcapaz&theme=light&hide_border=false" style="height: 170px;"/></p>
 <br/>--->
