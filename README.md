@@ -16,7 +16,7 @@ A brief description of what this project does and who it's for
 
 
 ## 🚀 About Me
-I'm a Devops Engineer ...
+👨‍💻 I'm a Devops Engineer ...
 
 
  <!--- ## 🔗 Links
