@@ -35,8 +35,9 @@ I'm a Devops Engineer ...
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iftachzilcapaz&theme=light&hide_border=false&include_all_commits=false&count_private=false&layout=compact"  style="margin-top: 25px;"/></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=iftachzilcapaz&theme=light&hide_border=false&include_all_commits=false&count_private=false" style="height: 170px;"/> </p>
+<!---
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iftachzilcapaz&theme=light&hide_border=false" style="height: 170px;"/></p>
-<br/>
+<br/>--->
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
