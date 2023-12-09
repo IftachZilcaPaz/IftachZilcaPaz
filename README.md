@@ -1,6 +1,7 @@
 
 
 [![MasterHead](https://thecloudlegion.com/images/devops.gif)](https://rishavchanda.io)
+<img src="https://images.credly.com/size/220x220/images/ec621e2a-c8f0-4459-806c-ae11829d372a/image.png"/>
 
 ---
 
