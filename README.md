@@ -38,8 +38,8 @@ I'm a Devops Engineer ...
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iftachzilcapaz&theme=light&hide_border=false" style="height: 170px;"/></p>
 <br/>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=IftachZilcaPaz&theme=dark&no-frame=true&no-bg=false&margin-w=4)
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 <br/>
 
 ### 🔝 Top Contributed Repo
