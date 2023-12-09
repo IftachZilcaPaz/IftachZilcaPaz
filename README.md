@@ -59,9 +59,6 @@
 <br/>
 <br/>
 <br/>
-
----
-
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" align="right" width="500"/>
 
 
@@ -69,6 +66,8 @@
 <img align="left" src="https://randommeme-five.vercel.app/" align="left" width="300" height="300"/>
 --->
 <!---### ✍️ Random Dev Quote--->
+
+---
 
 <img src="https://github.com/IftachZilcaPaz/IftachZilcaPaz/blob/output/ocean.gif" width="1100" height="150" />
 
