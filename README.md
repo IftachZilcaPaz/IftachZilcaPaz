@@ -42,13 +42,19 @@ I'm a Devops Engineer ...
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 <br/>
 
-### 🔝 Top Contributed Repo
-<p><img align="center" src="https://github-contributor-stats.vercel.app/api?username=iftachzilcapaz&limit=5&theme=light&combine_all_yearly_contributions=true" style="height: 170px;"/> </p>
+
+
+
+
 ### 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+
+<img src="https://github.com/IftachZilcaPaz/IftachZilcaPaz/blob/output/ocean.gif" width="1100" height="150" />
 
 ---
 [![](https://visitcount.itsvg.in/api?id=iftachzilcapaz&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
 
