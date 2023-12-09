@@ -33,19 +33,29 @@ I'm a Devops Engineer ...
 
 # 📊 GitHub Stats:
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iftachzilcapaz&theme=light&hide_border=false&include_all_commits=false&count_private=false&layout=compact"  style="margin-top: 25px;"/></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=iftachzilcapaz&theme=light&hide_border=false&include_all_commits=false&count_private=false" style="height: 170px;"/> </p>
+
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iftachzilcapaz&theme=light&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
+
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=iftachzilcapaz&theme=light&hide_border=false&include_all_commits=false&count_private=false" width="350"/>
+<img align="left" src="https://randommeme-five.vercel.app/" align="left" width="300" height="300"/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" align="right" width="600"/>
 <!---
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iftachzilcapaz&theme=light&hide_border=false" style="height: 170px;"/></p>
 <br/>--->
 
 
-
-<!---### 😂 Random Dev Meme--->
-<img src="https://randommeme-five.vercel.app/" align="left" width="300" height="300"/>
-
+<!---### 😂 Random Dev Meme
+<img align="left" src="https://randommeme-five.vercel.app/" align="left" width="300" height="300"/>
+--->
 <!---### ✍️ Random Dev Quote--->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" align="center" width="400"/>
 
 <img src="https://github.com/IftachZilcaPaz/IftachZilcaPaz/blob/output/ocean.gif" width="1100" height="150" />
 
