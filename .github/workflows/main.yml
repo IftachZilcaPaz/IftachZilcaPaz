@@ -29,8 +29,7 @@ jobs:
         uses: Platane/snk@v3.2.0
         with:
           github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            svg_out_path: dist/github-contribution-grid-snake.svg
+          svg_out_path: dist/github-contribution-grid-snake.svg
             
           
           
