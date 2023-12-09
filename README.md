@@ -1,8 +1,15 @@
 
 
 [![MasterHead](https://thecloudlegion.com/images/devops.gif)](https://rishavchanda.io)
-<img src="https://images.credly.com/size/220x220/images/ec621e2a-c8f0-4459-806c-ae11829d372a/image.png"/>
 
+---
+
+<div>
+<img src="https://images.credly.com/size/220x220/images/ec621e2a-c8f0-4459-806c-ae11829d372a/image.png"/>
+<img src="https://images.credly.com/size/220x220/images/336eebfc-0ac3-4553-9a67-b402f491f185/azure-administrator-associate-600x600.png"/>
+<img src="https://images.credly.com/size/220x220/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png"/>
+ </div>
+ 
 ---
 
 # Hi, I'm Iftach! 👋, Welcome to my git:
