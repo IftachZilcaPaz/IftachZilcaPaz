@@ -39,15 +39,17 @@ I'm a Devops Engineer ...
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iftachzilcapaz&theme=light&hide_border=false" style="height: 170px;"/></p>
 <br/>--->
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
+<!---### 😂 Random Dev Meme--->
+<p><img src="https://randommeme-five.vercel.app/" align="left" width="300" height="300"/></p>
+</br>
+</br>
+</br>
+</br>
 
-
-
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+<!---### ✍️ Random Dev Quote--->
+<p><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" align="left"/></p>
 
 <img src="https://github.com/IftachZilcaPaz/IftachZilcaPaz/blob/output/ocean.gif" width="1100" height="150" />
 
