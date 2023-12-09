@@ -40,7 +40,7 @@ I'm a Devops Engineer ...
 <br/>--->
 
 
-<div>
+
 <!---### 😂 Random Dev Meme--->
 <img src="https://randommeme-five.vercel.app/" align="left" width="300" height="300"/>
 <br/>
@@ -51,7 +51,6 @@ I'm a Devops Engineer ...
 <!---### ✍️ Random Dev Quote--->
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" align="center" width="400" height="400"/>
 
-</div>
 <img src="https://github.com/IftachZilcaPaz/IftachZilcaPaz/blob/output/ocean.gif" width="1100" height="150" />
 
 ---
