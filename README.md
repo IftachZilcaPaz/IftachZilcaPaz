@@ -1,3 +1,4 @@
+---
 [![MasterHead](https://thecloudlegion.com/images/devops.gif)](https://rishavchanda.io)
 
 # Hi, I'm Iftach! 👋, Welcome to my git:
@@ -64,8 +65,6 @@ I'm a Devops Engineer ...
 <!---### ✍️ Random Dev Quote--->
 
 <img src="https://github.com/IftachZilcaPaz/IftachZilcaPaz/blob/output/ocean.gif" width="1100" height="150" />
-
-[![](https://visitcount.itsvg.in/api?id=iftachzilcapaz&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=iftachzilcapaz&icon=0&color=0)](https://visitcount.itsvg.in)
