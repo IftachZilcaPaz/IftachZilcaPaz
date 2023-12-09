@@ -13,8 +13,7 @@
 ---
 
 <p>
-<h1> Hi, I'm Iftach!👋👋👋
- Welcome to my GIT:</h1>
+<h1> Hi, I'm Iftach!👋👋👋...welcome to my GIT:</h1>
 </p>
 <br/>
 
