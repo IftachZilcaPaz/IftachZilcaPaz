@@ -12,8 +12,9 @@
  
 ---
 
-# Hi, I'm Iftach! 👋,&nbsp;welcome to my GIT:
-
+<p>
+# Hi, I'm Iftach! 👋welcome to my GIT:
+</p>
 <br/>
 
 <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1689486594104/0883007c-df25-4d04-90f9-16a033cece42.gif" align="right" height="250" width="350" />
