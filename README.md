@@ -34,7 +34,6 @@
 
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iftachzilcapaz&theme=light&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
-&nbsp;
 <img align="left" src="https://randommeme-five.vercel.app/" align="left" width="300" height="400"/>
 <br/>
 <br/>
