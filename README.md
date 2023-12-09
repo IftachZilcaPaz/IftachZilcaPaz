@@ -49,7 +49,8 @@ I'm a Devops Engineer ...
 &nbsp;
 
 <!---### ✍️ Random Dev Quote--->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" align="left" width="300" height="300"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" align="center" width="400" height="400"/>
+<br/>
 </div>
 <img src="https://github.com/IftachZilcaPaz/IftachZilcaPaz/blob/output/ocean.gif" width="1100" height="150" />
 
