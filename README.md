@@ -13,7 +13,7 @@
 ---
 
 <p>
-<h1> Hi, I'm Iftach&nbsp;<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="45" width="45"/>&nbsp;&nbsp;&nbsp;&nbsp;welcome to my GIT&nbsp;=)</h1>
+<h1> Hi, I'm Iftach&nbsp;<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="45" width="45"/>&nbsp;&nbsp;welcome to my GIT&nbsp;=)</h1>
 </p>
 <br/>
 
