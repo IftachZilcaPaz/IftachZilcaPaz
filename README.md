@@ -72,8 +72,6 @@
 --->
 <!---### ✍️ Random Dev Quote--->
 
----
-
 <img src="https://github.com/IftachZilcaPaz/IftachZilcaPaz/blob/output/github-snake-dark.svg" width="1400px" class="block mx-auto" />
 
 ---
