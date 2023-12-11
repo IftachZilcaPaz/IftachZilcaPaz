@@ -23,7 +23,7 @@
 ## 🚀 About Me
 👨‍💻 I'm a <code>Devops Engineer</code>
 <br/>
-🧰 I'm using this technologies ( Always Update ) : <code>Python</code>, <code>MySql</code>, <code>Jenkins</code>
+🧰 My Repositories Languages... ( Always Update ) : <code>Python</code>, <code>MySql</code>, <code>Jenkins</code>
 
 
  <!--- ## 🔗 Links
