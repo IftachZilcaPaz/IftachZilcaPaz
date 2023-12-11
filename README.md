@@ -24,9 +24,7 @@
 👨‍💻 I'm a <code>Devops Engineer</code>
 <br/>
 🧰 My Repositories Languages... ( Always Update ) : 
-&nbsp;
-<code>Python</code>, <code>MySql</code>, <code>Jenkins</code>
-
+<br/><code>Python</code>, <code>MySql</code>, <code>Jenkins</code>
 
  <!--- ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherineoelsner.com/)
