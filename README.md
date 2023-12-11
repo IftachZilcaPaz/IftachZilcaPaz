@@ -74,7 +74,7 @@
 
 ---
 
-<img src="https://github.com/IftachZilcaPaz/IftachZilcaPaz/blob/output/github-snake-dark.svg" width="1500px" />
+<img src="https://github.com/IftachZilcaPaz/IftachZilcaPaz/blob/output/github-snake-dark.svg" width="1300px" />
 
 ---
 [![](https://visitcount.itsvg.in/api?id=iftachzilcapaz&icon=0&color=0)](https://visitcount.itsvg.in)
