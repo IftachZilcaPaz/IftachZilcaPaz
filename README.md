@@ -46,15 +46,7 @@
 # 📊 GitHub Stats ( And more ✨ ):
 
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iftachzilcapaz&theme=light&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
-<img align="left" src="https://randommeme-five.vercel.app/" align="left" width="300" height="400"/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=iftachzilcapaz&theme=light&hide_border=false&include_all_commits=false&count_private=false"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iftachzilcapaz&theme=light&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
 <br/>
 <br/>
 <br/>
@@ -63,8 +55,17 @@
 <br/>
 <br/>
 <br/>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=iftachzilcapaz&theme=light&hide_border=false&include_all_commits=false&count_private=false"/>
 <br/>
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" align="right" width="500"/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<img align="left" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" align="right" width="500"/>
 
 
 <!---### 😂 Random Dev Meme
